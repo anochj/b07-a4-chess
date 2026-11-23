@@ -1,6 +1,11 @@
 #ifndef MOVE_H
 #define MOVE_H
 
+enum Colour {
+    WHITE,
+    BLACK
+};
+
 enum CellPiece {
     EMPTY,
     KING, 
