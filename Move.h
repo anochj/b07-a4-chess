@@ -1,5 +1,4 @@
-#ifndef MOVE_H
-#define MOVE_H
+#pragma once
 
 #include "Types.h"
 #include <optional>
@@ -10,5 +9,3 @@ struct Move {
 
    std::optional<PieceType> promotion; // only for pawn promotion
 };
-
-#endif

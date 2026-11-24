@@ -1,5 +1,4 @@
-#ifndef TYPES_H
-#define TYPES_H
+#pragma once
 
 enum Colour {
     WHITE,
@@ -19,5 +18,3 @@ enum PieceType {
 struct Coordinate {
     int x, y;
 };
-
-#endif
