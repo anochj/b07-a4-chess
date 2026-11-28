@@ -1,7 +1,7 @@
 #pragma once
 
-#include "Move.h"
-#include "Piece.h"
+#include "board/Move.h"
+#include "pieces/Piece.h"
 #include <memory>
 
 class Board {

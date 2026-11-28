@@ -1,7 +1,7 @@
 #pragma once
 
-#include "Move.h"
-#include "GameState.h"
+#include "board/Move.h"
+#include "core/GameState.h"
 
 class MoveValidator {
 public:

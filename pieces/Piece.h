@@ -1,8 +1,8 @@
 #pragma once
 
-#include "Types.h"
-#include "Move.h"
-#include "GameState.h"
+#include "core/Types.h"
+#include "board/Move.h"
+#include "core/GameState.h"
 #include <vector>
 
 class Piece {

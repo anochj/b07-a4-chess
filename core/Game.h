@@ -1,7 +1,7 @@
 #pragma once
 
-#include "GameState.h"
-#include "Player.h"
+#include "core/GameState.h"
+#include "player/Player.h"
 
 #include <memory>
 #include <map>

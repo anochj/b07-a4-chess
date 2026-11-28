@@ -1,8 +1,8 @@
 #pragma once
 
-#include "Piece.h"
-#include "Types.h"
-#include "Board.h"
+#include "core/Types.h"
+#include "board/Board.h"
+#include <optional>
 
 class GameState {
     Board board;

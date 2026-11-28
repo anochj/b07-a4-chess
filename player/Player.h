@@ -1,8 +1,8 @@
 #pragma once
 
-#include "Board.h"
-#include "Move.h"
-#include "Types.h"
+#include "board/Board.h"
+#include "board/Move.h"
+#include "core/Types.h"
 
 class Player {
     Colour colour;
